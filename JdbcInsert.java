@@ -38,3 +38,4 @@ public class JdbcInsert {
         }
     }
 }
+/*Output:Employee data inserted successfully!*/
